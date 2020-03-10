@@ -4,11 +4,11 @@ Assorted scripts written for use in Fiji
 ## Red-Green transgene comparison
 Scripts created in 2018 for Bachelor students to process red-green confocal images of worms:
 
-splitChannels_imgMeasure.ijm
+_splitChannels_imgMeasure.ijm_
 
-makeRGBforDisplay.ijm
+_makeRGBforDisplay.ijm_
 
-ProcessImages_unknownCoord.ijm
+_ProcessImages_unknownCoord.ijm_
 
 
 ## Embryo timelapse
